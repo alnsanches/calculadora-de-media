@@ -2,7 +2,7 @@
 
 Este projeto é parte da Imersão Dev, realizada pela [Alura](https://www.alura.com.br/) em setembro de 2022.
 
-Durante a aula, utilizamos JavaScript para calcular a média anual de um aluno e mostrar o resultado no console. [Veja aqui] (https://codepen.io/alnsanches/pen/BaxygEx) a primeira versão do código, desenvolvida pelos instrutores.
+Durante a aula, utilizamos JavaScript para calcular a média anual de um aluno e mostrar o resultado no console. [Veja aqui](https://codepen.io/alnsanches/pen/BaxygEx) a primeira versão do código, desenvolvida pelos instrutores.
 
 Ao final, os instrutores deixaram alguns desafios, todos completos:
 
@@ -12,13 +12,6 @@ Ao final, os instrutores deixaram alguns desafios, todos completos:
 
 [Clique para acessar a calculadora](https://alnsanches.github.io/calculadora-de-media/).
 
-## Índice
-
-- [Tecnologias utilizadas](#tecnologias)
-- [Aprendizados](#aprendizados)
-- [Desenvolvimento contínuo](#desenvolvimento)
-- [Agradecimentos](#agradecimentos)
-- [Autora](#autora)
 
 ### Tecnologias utilizadas
 

@@ -6,7 +6,7 @@ Durante a aula, utilizamos JavaScript para calcular a média anual de um aluno e
 
 Ao final, os instrutores deixaram alguns desafios, todos completos:
 
-- Verificar se o aluno passou ou não de ano (aqui, considerei a média 7)
+- Verificar se o aluno passou ou não de ano (considerei a média 7)
 - Estilizar a página
 - Escrever resultados na página, em vez de no console
 
